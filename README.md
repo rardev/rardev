@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: contact@ribelin.dev
-- 😄 Pronouns: He/Him
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rardev&show_icons=true&theme=gruvbox)
